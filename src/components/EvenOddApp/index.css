@@ -1,0 +1,39 @@
+.container {
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: auto;
+}
+
+.card-container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  border-radius: 16px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.button {
+  background-color: #ffffff;
+  border-width: 2px;
+  border-color: #000000;
+}
+.message {
+  color: #000000;
+  font-size: 10px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.describe {
+  font-size: 18px;
+  font-family: 'Roboto';
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 32px;
+}
